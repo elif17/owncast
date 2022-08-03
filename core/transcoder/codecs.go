@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2020 Gabe Kangas, <gabek@real-ity.com>, et al.
+//
+// SPDX-License-Identifier: MIT
+
 //nolint:goconst
 
 package transcoder

@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2020 Gabe Kangas, <gabek@real-ity.com>, et al.
+#
+# SPDX-License-Identifier: CC0-1.0
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
